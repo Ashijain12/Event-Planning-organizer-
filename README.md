@@ -1,4 +1,4 @@
-# Event-Planning-organizer-
+
 # Event Organizer Dashboard – Power BI Project
 
 ## 📊 Project Overview
