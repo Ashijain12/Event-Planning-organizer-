@@ -14,11 +14,13 @@ This Power BI dashboard analyzes event management data to track bookings, revenu
 - Event Type Performance
 - Monthly Booking Trends
 - Customer Analysis
+- 
 
 ## 📁 Files Included
 - Event Organizer.pbix – Power BI Dashboard
 - Dataset file
 - Dashboard Screenshots
 
-## 👩‍💻 Created By
-Ashi Jain
+## 📸 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
